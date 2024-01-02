@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-number = 3.14159
-# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINEprint(f"Float: {number:.2f}")
+number = 98
+print(f"{number} Battery street")
